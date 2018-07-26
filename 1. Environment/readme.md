@@ -13,6 +13,8 @@ AWS Access Key ID [None]: youraccesskey
 AWS Secret Access Key [None]: yoursecretkey
 Default region name [None]: eu-west-1
 Default output format [None]: ENTER
+
+aws configure set aws_session_token your sesssion token
 ```
 4. Install the serverless framework
 ```
